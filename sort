@@ -1,0 +1,4 @@
+; sort the file content
+
+> cat first.txt
+> sort first.txt
