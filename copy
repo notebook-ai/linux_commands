@@ -1,0 +1,3 @@
+; for copy file  FROM TO
+
+cp  source_file target_file
