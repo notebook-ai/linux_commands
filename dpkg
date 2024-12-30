@@ -1,0 +1,13 @@
+> dpkg -c zsh
+
+> dpkg -i zsh
+
+> dpkg -r zsh
+
+> dpkg -s zsh
+
+> dpkg -l zsh
+> dpkg --purge zsh
+> dpkg --reconfigure zsh
+
+
