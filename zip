@@ -1,0 +1,4 @@
+; compress files
+
+> zip ARCHIVED_FILE_NAME FILE_NAME
+> zip  test second.txt
