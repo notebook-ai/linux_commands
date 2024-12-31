@@ -1,0 +1,3 @@
+> diff first second
+> cmp first second
+> comm first second
