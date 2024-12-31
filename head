@@ -1,5 +1,11 @@
 ; show content file
 
+; -n  lines
+; -c  bytes
+; -q  quiet
+; -v  verbose
+
+
 > head first.txt
 
 ; show 4 lines content
