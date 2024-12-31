@@ -1,0 +1,6 @@
+; show content file
+
+> head first.txt
+
+; show 4 lines content
+> head -n 4 first.txt
