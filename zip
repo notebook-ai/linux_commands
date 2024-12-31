@@ -7,3 +7,10 @@
 ; for show zip files info
 
 > zipinfo ZIP_FILE_NAME
+> zipdetails ZIP_FILE_NAME
+
+
+; sudo apt-get install atool
+> als ZIP_FILE_NAME
+
+
