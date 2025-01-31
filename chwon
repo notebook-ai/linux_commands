@@ -1,0 +1,6 @@
+; change owner file or folder
+> sudo chown  OWNER_NAME FILE_OR_FOLDER_NAME
+
+
+; change owner folder with sub folder and any files into root folder
+> sudo chown -R OWNER_NAME FOLDER_NAME
